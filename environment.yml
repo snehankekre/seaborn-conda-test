@@ -1,7 +1,6 @@
-name: streamlit
+name: my_environment
 channels:
   - conda-forge
-  - default
 dependencies:
   - streamlit
   - seaborn
