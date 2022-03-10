@@ -2,5 +2,4 @@ name: streamlit_test
 channels:
   - defaults
 dependencies:
-  - streamlit
   - seaborn
