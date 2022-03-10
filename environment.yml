@@ -1,5 +1,7 @@
-name: streamlit_test
+name: streamlit
 channels:
-  - defaults
+  - conda-forge
+  - default
 dependencies:
+  - streamlit
   - seaborn
